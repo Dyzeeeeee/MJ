@@ -1,6 +1,6 @@
 {
-    "name": "My Vue PWA",
-    "short_name": "VuePWA",
+    "name": "MJ Pogi",
+    "short_name": "MJ Pogi",
     "description": "A simple PWA using Vue 3 and Vite",
     "theme_color": "#42b883",
     "background_color": "#ffffff",

@@ -28,9 +28,9 @@ export default defineConfig({
             filename: 'sw.js',
             includeAssets: ['favicon.svg', 'favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
             manifest: {
-                name: 'Your App Name',
-                short_name: 'AppName',
-                description: 'Your app description',
+                name: 'MJ Pogi',
+                short_name: 'MJ Pogi',
+                description: 'Pogi lang',
                 theme_color: '#ffffff',
                 icons: [{
                         src: 'MJP-192x192.png',
